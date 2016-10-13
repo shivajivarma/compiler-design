@@ -1,0 +1,9 @@
+%%
+LP |
+CN |
+AI |
+DAA |
+WT |
+SE   printf("Valid subject");
+.*  printf("Invalid Subject");
+%%

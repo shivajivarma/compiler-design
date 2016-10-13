@@ -1,0 +1,4 @@
+%%
+\/\/(.)* printf("%s",yytext);
+.* printf(" ");
+%%
